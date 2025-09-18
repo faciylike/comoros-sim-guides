@@ -70,3 +70,10 @@ layout: default
 
 　　最后聊句实在的，科摩罗的通信网络就像这个国家本身——有种独特的节奏。别指望它像国内一样高效便捷，接受这种“岛国速度”，遇到问题时多点耐心，反而能成为旅行体验的一部分。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Comoros eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/comoros-data-plans)
